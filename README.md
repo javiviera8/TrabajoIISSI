@@ -1,0 +1,2 @@
+# TrabajoIISSI
+Este es un proyecto donde procederemos a colaborar con la ONG S.O.S Ayuda Sin Fronteras para el proyecto de la asignatura de IISSI (Introducción a la Ingeniería del Software y a los Sistemas de Información). Este proyecto surgió como alternativa diferente a la idea normal de colaborar con una empresa o comercio. Queremos compartir este pequeño apartado sobre las obras realizadas por parte de esta ONG, llevada a cabo por parte del Parque de Bomberos Escultor Sebastián Santos (Parque de Bomberos nº5, Sevilla)
